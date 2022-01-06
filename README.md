@@ -6,4 +6,4 @@ This project is for learning purpose using React.js with
 
 ## Preview
 
-Preview the example live on incoming
+Preview the example live on https://whalestate.vercel.app/
